@@ -1,7 +1,7 @@
 ## Hi! I am Itai Mizlish 👋
 
 ### About me
-----
+
 I'm Front-end Developer, who enjoys styling UI components and watching DW. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) <br/>
 I love learning new libraries and method and implementing them in the most creative way I find to be right.
 
