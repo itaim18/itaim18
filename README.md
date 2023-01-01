@@ -2,14 +2,14 @@
 
 ### About me
 ----
-I'm Front-end Developer, who enjoys styling UI components and watching DW.
+I'm Front-end Developer, who enjoys styling UI components and watching DW. <br/>
 I love learning new libraries and method and implementing them in the most creative way i find to be right.
 
 Feel free to leave a [Message](mailto:itaim1482@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
 ----
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/itaim18/Portfolio)
-----
+
 <!--
 **itaim18/itaim18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
