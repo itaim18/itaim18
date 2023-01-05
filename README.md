@@ -1,4 +1,4 @@
-## Hi! I am Itai Mizlish ![](https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif)
+## Hi! I am Itai Mizlish <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 
 ### About me
 
