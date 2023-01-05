@@ -14,7 +14,6 @@ I love learning new libraries and method and implementing them in the most creat
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 
 
 Feel free to leave a [Message](mailto:itaim1482@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
