@@ -4,7 +4,7 @@
 
 I'm Front-end Developer, who enjoys styling UI components and watching DW. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) <br/>
 I love learning new libraries and method and implementing them in the most creative way I find to be right.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="80" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="180" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
