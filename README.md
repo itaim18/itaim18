@@ -30,7 +30,7 @@ I love learning new libraries and method and implementing them in the most creat
 Feel free to leave a [Message](mailto:itaim1482@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
 ----
 
-- 🔭 I’m currently working on my [Bit]([https://github.com/itaim18/Portfolio](https://bit.dev/))
+- 🔭 I’m currently working on [Bit](https://bit.dev/)
 
 <!--
 **itaim18/itaim18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
