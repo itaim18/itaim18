@@ -30,7 +30,7 @@ I love learning new libraries and method and implementing them in the most creat
 Feel free to leave a [Message](mailto:itaim1482@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
 ----
 
-- 🔭 I’m currently working on [Price explorer]([https://bit.dev/](https://pricer.itaimiz.com))
+- 🔭 I’m currently working on [Price explorer](https://pricer.itaimiz.com)
 
 <!--
 **itaim18/itaim18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
