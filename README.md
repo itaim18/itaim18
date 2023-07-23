@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Front-end Developer, who enjoys styling UI components and watching Doctor Who. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) <br/>
+I'm a Frontend Developer, who enjoys styling UI components and watching Doctor Who. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) <br/>
 I love learning new libraries and method and implementing them in the most creative way I see to be right.
 <img alt="Night Coding" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/perfect-pop-culture-gifs-for-every-mood/1-pop-culture-gifs-every-mood-optimistic.gif" width="360" align="right" />
 
