@@ -27,7 +27,7 @@ I love learning new libraries and method and implementing them in the most creat
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 
-Feel free to leave a [Message](mailto:itaim1482@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
+Feel free to leave a [Message](mailto:itaimizlish@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
 ----
 
 - 🔭 I’m currently working on [Next-Framer-Motion](https://itaimiz.com)
