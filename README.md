@@ -2,7 +2,7 @@
 
 ### About me
 
-I’m a Software Engineer working with OpenCV, Python, and web apps. I love learning new libraries and methods,<br/> and I enjoy implementing them in the most creative way possible.  I also like styling UI components and watching Doctor Who. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) 
+I’m a Software Engineer working with OpenCV, Python, and web apps. I love learning new libraries and methods,<br/> and I enjoy implementing them in the most creative way possible.<br/> I also like styling UI components and watching Doctor Who. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) 
 <img alt="Night Coding" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/perfect-pop-culture-gifs-for-every-mood/1-pop-culture-gifs-every-mood-optimistic.gif" width="360" align="right" />
 
 ### 🛠 &nbsp;Tech Stack
