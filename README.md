@@ -25,6 +25,8 @@ ML Engineer • OpenCV + Python. Machine Learning Engineer specializing in compu
   <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="22" height="22" alt="Git"></a>
 </p>
 
+<br/>
+<br/>
 
 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/itai-mizlish/)
 ----
