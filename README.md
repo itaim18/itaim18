@@ -2,7 +2,7 @@
 
 ### About me
 
-ML Engineer • OpenCV + Python. Machine Learning Engineer specializing in computer vision & GenAI for edge devices. I ship real-time depth, detection, and VLM pipelines on Jetson/RK3588/Hailo—optimized, quantized, and production-ready. When I’m off the clock, I’m traveling by TARDIS. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) 
+Machine Learning Engineer specializing in computer vision & GenAI for edge devices. I ship real-time depth, detection, and VLM pipelines on Jetson/RK3588/Hailo—optimized, quantized, and production-ready. When I’m off the clock, I’m traveling by TARDIS. ![](https://github.com/itaim18/itaim18/blob/main/tardisEmoji1.png) 
 <img alt="Night Coding" src="https://www.mandatory.com/wp-content/uploads/sites/10/gallery/perfect-pop-culture-gifs-for-every-mood/1-pop-culture-gifs-every-mood-optimistic.gif" width="360" align="right" />
 
 ### 🛠 &nbsp;Tech Stack
